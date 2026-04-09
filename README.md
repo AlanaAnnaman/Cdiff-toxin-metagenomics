@@ -165,7 +165,7 @@ Diversity of Large Clostridial Toxin Homologs in Clostridioides difficile.
 
 
 **Alana Annamanthadoo**  
-*Master of Science in Bioinformatics*  
+*Master of Bioinformatics*  
 
 
 ## License
