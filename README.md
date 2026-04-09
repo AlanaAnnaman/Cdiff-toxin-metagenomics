@@ -160,7 +160,6 @@ If you use this methodology or find these results useful, please cite:
 ```
 Annamanthadoo, A. (2025). Beyond A and B: Investigating the Prevalence and 
 Diversity of Large Clostridial Toxin Homologs in Clostridioides difficile. 
-Juniata College, Huntingdon, PA.
 ```
 
 
