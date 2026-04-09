@@ -1,0 +1,42 @@
+# Bioinformatics Pipeline Requirements
+# CDI Toxin Homolog Analysis
+# Author: Alana Annamanthadoo
+
+# Core bioinformatics tools
+fastp==0.23.2
+kraken2==2.1.2
+humann==3.0
+metaphlan==3.0
+
+# Python packages
+pandas>=1.5.0
+numpy>=1.20.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+biopython>=1.79
+
+# R packages (install via R)
+# tidyverse
+# vegan
+# ggpubr
+# RColorBrewer
+# qiime2R (devtools::install_github("jbisanz/qiime2R"))
+
+# System requirements
+# - Linux (Ubuntu 20.04+ or CentOS 7+)
+# - Minimum 64GB RAM for large datasets
+# - Minimum 500GB storage for databases and outputs
+# - 16+ CPU cores recommended
+
+# Database requirements
+# - Kraken2 human genome database (GRCh38)
+# - ChocoPhlAn nucleotide database
+# - UniRef90 protein database
+# - KEGG ortholog database
+# - MetaPhlAn marker gene database
+
+# Optional visualization tools
+plotly>=5.0.0
+bokeh>=2.4.0
